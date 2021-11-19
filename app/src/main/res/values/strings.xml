@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Auto Information Application</string>
+    <string name="app_heading"> Auto Information </string>
+    <string name="car_1">Hyundai Santa Fe: The Hyundai Santa Fe received some major updates for 2021, including upgraded engines, hybrid and plug-in hybrid options and a range-topping Calligraphy trim.</string>
+    <string name="car_2">Toyota Sienna: The Toyota Sienna minivan is all-new for 2021 with SUV-rivaling style and a standard 245-horsepower hybrid powertrain that gets 36 mpg. Here\'s how it compares to other minivan competitors.</string>
+    <string name="car_3">Audi Q5: Audi\'s best-selling car in America, the Q5, gets a redesigned exterior and a slight power bump for 2021.</string>
+    <string name="car_4">Kia Seltos: The Kia Seltos, at least in fully-loaded spec, will blow away most of its segment with its capability, looks and space. And it will reel in some buyers who weren’t even shopping for a subcompact</string>
+    <string name="car_5">Mercedes-Benz GLA-Class: The new, second-generation Mercedes-Benz GLA-Class has better styling, more advanced tech and is a clear upgrade over its predecessor.</string>
+    <string name="car_6">Ford F-150: 2021 is technically a mid-cycle refresh for the Ford F-150. But it\'s one packed with substantive updates, including a new hybrid powertrain. (An all-electric version called the F-150 Lightning is coming for 2022, as well.)</string>
+    <string name="car_7">Toyota RAV4 Prime: The Toyota RAV4 Prime offers 40-plus miles of EV range and is eligible for the full $7,500 federal tax credit. And, oh yeah, it\'s quicker than the four-cylinder Supra.</string>
+    <string name="car_8">Toyota RAV4: If you tried to distill down what the average new car buyer wants these days into a single vehicle, you might well end up with something very much like the Toyota RAV4. In fact, the RAV4 happened to be the best-selling vehicle that wasn’t a pickup truck in America last year; Toyota moved more than 448,000 of them off dealer lots from January 1st to December 31st.</string>
+    <string name="car_9">Genesis GV80: Genesis added its first SUV to the lineup with the luxurious and head-turning GV80. It\'s already begun upsetting the balance of power in the hotly competitive midsize SUV segment. John Legend and Chrissy Teigen are fans.</string>
+    <string name="car_10">Hyundai Elantra: The Hyundai Elantra is all-new for 2021. It looks great and drives well, and it\'s also efficient and affordable. There\'s also sporty N-line version comparable to the Civic Si and VW GTI, with an even sportier Elantra N coming soon.</string>
+    <string name="textview">Car Summary Information</string>
+</resources>
