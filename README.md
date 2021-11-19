@@ -13,4 +13,4 @@
 ### Screen Display(s)
 <img src="https://user-images.githubusercontent.com/77758884/142408473-8e7a3948-d913-4707-81e2-6a957d443682.png" width=200px /><img src="https://user-images.githubusercontent.com/77758884/142397692-0559f74b-c0f0-4b53-8339-bb5d4066e5e0.png" width=200px /><img src="https://user-images.githubusercontent.com/77758884/142398057-62d22be7-d4f3-4b6c-b52f-f20417c7dd95.png" width=200px />
 ### Android Files
-- Review Android files in <a href="https://github.com/danny-votez/Scrollable-Car-Info-Simple-App/tree/master" >master </a>branch
+- Review Android files in <a href="https://github.com/danny-votez/Scrollable-Car-Info-Simple-App/tree/master" >master</a> Branch.
