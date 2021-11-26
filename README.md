@@ -7,7 +7,7 @@
 - Each TextView [in the car section] is also set to width 200dp and height 150dp
 - For the TextView, a uniform padding of 10dp is set
 - For the imageView, i.e., cars, the constraints are left contraint is 0dp, right 8dp and botton 8dp
-- Programming Language: Java
+- Programming Language: <strong>Java</strong>
 ### Launch Icon Used
 <img src="https://user-images.githubusercontent.com/77758884/142407650-5e23fc74-0758-4625-9586-f643b8f13df1.png" width=100px />
 
