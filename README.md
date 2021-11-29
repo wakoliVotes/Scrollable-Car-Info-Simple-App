@@ -10,7 +10,7 @@
 - Programming Language: <strong>Java</strong>
 ### Launch Icon Used
 <img src="https://user-images.githubusercontent.com/77758884/142407650-5e23fc74-0758-4625-9586-f643b8f13df1.png" width=100px />
-- On how to change the launch icon image, see this discussion on <a href="https://stackoverflow.com/questions/26615889/how-do-you-change-the-launcher-logo-of-an-app-in-android-studio">Stackoverflow</a>
+- On how to change the launch icon image, see this discussion on <a href="https://stackoverflow.com/questions/26615889/how-do-you-change-the-launcher-logo-of-an-app-in-android-studio">Stackoverflow here</a>. 
 
 ### Screen Display(s)
 <img src="https://user-images.githubusercontent.com/77758884/142408473-8e7a3948-d913-4707-81e2-6a957d443682.png" width=200px /><img src="https://user-images.githubusercontent.com/77758884/142397692-0559f74b-c0f0-4b53-8339-bb5d4066e5e0.png" width=200px /><img src="https://user-images.githubusercontent.com/77758884/142398057-62d22be7-d4f3-4b6c-b52f-f20417c7dd95.png" width=200px />
